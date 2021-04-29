@@ -2,8 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class RegistrationGUI extends JFrame {
-    public static int Height;
-    public static int Width;
+   
 
     private RegistrationPanel regPanel;
     public RegistrationGUI() {
